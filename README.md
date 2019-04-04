@@ -1,13 +1,10 @@
 # Neural-Networks
+### Neural Network Classification Application in Python Using Keras
 
-
-# Random-Forests
-### Random Forest Classification/Regression Application in Python Using scikit-learn
-
-This repository contains the analysis of baseball statistics using MLB Statcast Metrics.
+This repository contains the prediction of images using the MNIST dataset of handwritten digits and Fashion-MNIST dataset of clothing articles.
 
 **Goals**
 
-- Using MLB Statcast Metrics, summarize and examine baseball statistics.
-- Build and train Random Forest Classification models to predict home runs and extra-base hits.
-- Build and train a Random Forest Regression model to predict hit distance.
+- Using the MNIST dataset of handwritten digits and Fashion-MNIST dataset of clothing articles, summarize and examine images.
+- Build and train a Neural Network Classification model to predict handwritten digit images.
+- Build and train a Neural Network Classification model to predict clothing article images.
