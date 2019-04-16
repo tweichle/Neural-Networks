@@ -4,7 +4,7 @@
 This repository contains the prediction of images using the MNIST dataset of handwritten digits and Fashion-MNIST dataset of clothing articles.
 
 ![mnist_100_digits](https://user-images.githubusercontent.com/41403941/56248095-d3032580-605b-11e9-8825-ff28c7ca6cff.png)
-![fashion-mnist-sprite](https://user-images.githubusercontent.com/41403941/56248106-d8607000-605b-11e9-91a1-7598e8f1e356.png)
+<img width="338" alt="Untitled 2" src="https://user-images.githubusercontent.com/41403941/56248352-88ce7400-605c-11e9-965e-1229d906fd97.png">
 
 **Goals**
 
